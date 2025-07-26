@@ -22,7 +22,6 @@ It’s a narrative podcast that blends cinematic scripts, emotional voiceovers, 
 Scripts and summaries (no spoilers) are available in the  
 `/seasons/Season_01_Unspoken_Connections/` folder:
 
----
 
 ### 🎙️ S1E1: Reunion of Hearts
 
