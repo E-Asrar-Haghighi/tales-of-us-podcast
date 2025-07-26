@@ -11,22 +11,35 @@
 
 > *“Some stories are too quiet to be heard — unless you stop and listen.”*
 
----
+--- 
 
 ## 📚 Season 1: *Unspoken Connections*
 
-**A story of emotional reconnection, nostalgia, and the courage to say what was once left unsaid.**
-🎬 [Download Season 1 Teaser](seasons/Season_01_Unspoken_Connections/S01-Unspoken_Connections_Teaser.mp4)
+**A story of emotional reconnection, nostalgia, and the courage to say what was once left unsaid.**  
+🎬 [Download Season 1 Teaser](seasons/Season_01_Unspoken_Connections/S01_Teaser.mp4)
 
 Scripts and summaries (no spoilers) are available in the  
 `/seasons/Season_01_Unspoken_Connections/` folder:
 
-- `S01_E01_Reunion of Hearts.txt` — *S1E1: Reunion of Hearts*
-- `S01_E02_Coffee and Confessions.txt` — *S1E2: Coffee and Confessions*
+---
 
-More coming soon...
+### 🎙️ S1E1: Reunion of Hearts
+In the first episode of *Unspoken Connections*, two familiar paths cross again after years apart — and what follows is a quiet, emotional unraveling of what was left unsaid.  
+Set across warm coffee shops and a nostalgic hometown reunion, this story explores missed chances, unresolved emotions, and the courage to be honest, at last.  
+📄 [Read script](seasons/Season_01_Unspoken_Connections/S01_E01_Reunion%20of%20Hearts.txt)
 
 ---
+
+### 🎙️ S1E2: Coffee and Confessions
+In the second episode of *Unspoken Connections*, a quiet morning after an unexpected reunion sets the stage for long-overdue truths.  
+As Jason and Rebecca navigate familiar places and forgotten feelings, questions of timing, honesty, and connection begin to surface.  
+Sometimes, it’s the conversations over coffee that change everything.  
+📄 [Read script](seasons/Season_01_Unspoken_Connections/S01_E02_Coffee%20and%20Confessions.txt)
+
+---
+
+More episodes coming soon...
+
 
 ## 🌟 About This Project
 
