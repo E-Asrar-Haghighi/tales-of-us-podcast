@@ -16,6 +16,7 @@
 ## 📚 Season 1: *Unspoken Connections*
 
 **A story of emotional reconnection, nostalgia, and the courage to say what was once left unsaid.**
+🎬 [Download Season 1 Teaser](seasons/Season_01_Unspoken_Connections/S01-Unspoken_Connections_Teaser.mp4)
 
 Scripts and summaries (no spoilers) are available in the  
 `/seasons/Season_01_Unspoken_Connections/` folder:
