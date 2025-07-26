@@ -27,7 +27,7 @@ Scripts and summaries (no spoilers) are available in the
 In the first episode of *Unspoken Connections*, two familiar paths cross again after years apart — and what follows is a quiet, emotional unraveling of what was left unsaid.  
 Set across warm coffee shops and a nostalgic hometown reunion, this story explores missed chances, unresolved emotions, and the courage to be honest, at last.  
 📄 [Read script](seasons/Season_01_Unspoken_Connections/S01_E01_Reunion%20of%20Hearts.txt)
-🎧 [Spotify]([https://open.spotify.com/show/7ImgY7lwV9mrYWkTNNikTx](https://open.spotify.com/episode/22kYjfEBYHyQbLulMQC0MI))
+🎧 [Spotify](https://open.spotify.com/episode/22kYjfEBYHyQbLulMQC0MI)
 
 
 
