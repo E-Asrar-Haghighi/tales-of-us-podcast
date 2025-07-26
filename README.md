@@ -7,7 +7,7 @@
 ---
 
 ## 🎧 Listen On
-- [Spotify](https://open.spotify.com/show/7ImgY7lwV9mrYWkTNNikTx)
+- [Spotify_Link](https://open.spotify.com/show/7ImgY7lwV9mrYWkTNNikTx)
 
 > *“Some stories are too quiet to be heard — unless you stop and listen.”*
 
