@@ -28,7 +28,7 @@ In the first episode of *Unspoken Connections*, two familiar paths cross again a
 Set across warm coffee shops and a nostalgic hometown reunion, this story explores missed chances, unresolved emotions, and the courage to be honest, at last.  
 📄 [Read script](seasons/Season_01_Unspoken_Connections/S01_E01_Reunion%20of%20Hearts.txt)
 
----
+
 
 ### 🎙️ S1E2: Coffee and Confessions
 In the second episode of *Unspoken Connections*, a quiet morning after an unexpected reunion sets the stage for long-overdue truths.  
