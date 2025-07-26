@@ -31,7 +31,7 @@ Set across warm coffee shops and a nostalgic hometown reunion, this story explor
 📄 [Read script](seasons/Season_01_Unspoken_Connections/S01_E01_Reunion%20of%20Hearts.txt)  
 🎧 [Listen on Spotify](https://open.spotify.com/episode/22kYjfEBYHyQbLulMQC0MI)
 
-***
+
 
 ### 🎙️ S1E2: Coffee and Confessions
 
