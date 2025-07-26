@@ -1,4 +1,4 @@
-![Tales of Us Cover](cover.jpg)
+![Tales of Us Cover](cover.png)
 
 # 🎙️ Tales of Us – A Storytelling Podcast
 
