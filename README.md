@@ -11,7 +11,7 @@
 
 > *“Some stories are too quiet to be heard — unless you stop and listen.”*
 
---- 
+---
 
 ## 📚 Season 1: *Unspoken Connections*
 
@@ -21,7 +21,7 @@
 Scripts and summaries (no spoilers) are available in the  
 `/seasons/Season_01_Unspoken_Connections/` folder:
 
----
+-
 
 ### 🎙️ S1E1: Reunion of Hearts
 In the first episode of *Unspoken Connections*, two familiar paths cross again after years apart — and what follows is a quiet, emotional unraveling of what was left unsaid.  
