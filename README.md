@@ -36,7 +36,7 @@ Set across warm coffee shops and a nostalgic hometown reunion, this story explor
 
 In the second episode of *Unspoken Connections*, a quiet morning after an unexpected reunion sets the stage for long-overdue truths.  
 As Jason and Rebecca navigate familiar places and forgotten feelings, questions of timing, honesty, and connection begin to surface.  
-Sometimes, it’s the conversations over coffee that change everything.  
+Sometimes, it’s the conversations over coffee that change everything.    
 📄 [Read script](seasons/Season_01_Unspoken_Connections/S01_E02_Coffee%20and%20Confessions.txt)  
 🎧 [Listen on Spotify](https://open.spotify.com/episode/2cLPyX0xyZU6t3VDE5ORk6)
 
