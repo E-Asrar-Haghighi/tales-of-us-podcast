@@ -42,9 +42,9 @@ Sometimes, it’s the conversations over coffee that change everything.
 
 ### 🎙️ S1E3: Road Trip Revelations
 
-In the third episode of Unspoken Connections, a spontaneous road trip becomes the backdrop for long-suppressed emotions and honest confessions.
-As Jason and Rebecca share laughter, music, and memories along the coast, they begin to confront the fears that once kept them apart.
-Sometimes, it takes leaving everything behind to finally move forward.
+In the third episode of Unspoken Connections, a spontaneous road trip becomes the backdrop for long-suppressed emotions and honest confessions.  
+As Jason and Rebecca share laughter, music, and memories along the coast, they begin to confront the fears that once kept them apart.  
+Sometimes, it takes leaving everything behind to finally move forward.  
 📄 [Read script](https://github.com/E-Asrar-Haghighi/tales-of-us-podcast/blob/main/seasons/Season_01_Unspoken_Connections/S01_E03_Road%20Trip%20Revelations.txt)  
 🎧 [Listen on Spotify](https://open.spotify.com/episode/22kYjfEBYHyQbLulMQC0MI)
 
