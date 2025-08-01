@@ -40,6 +40,14 @@ Sometimes, it’s the conversations over coffee that change everything.
 📄 [Read script](seasons/Season_01_Unspoken_Connections/S01_E02_Coffee%20and%20Confessions.txt)  
 🎧 [Listen on Spotify](https://open.spotify.com/episode/2cLPyX0xyZU6t3VDE5ORk6)
 
+### 🎙️ S1E3: Road Trip Revelations
+
+In the third episode of Unspoken Connections, a spontaneous road trip becomes the backdrop for long-suppressed emotions and honest confessions.
+As Jason and Rebecca share laughter, music, and memories along the coast, they begin to confront the fears that once kept them apart.
+Sometimes, it takes leaving everything behind to finally move forward.
+📄 [Read script](seasons/Season_01_Unspoken_Connections/S01_E02_Coffee%20and%20Confessions.txt)  
+🎧 [Listen on Spotify](https://open.spotify.com/episode/22kYjfEBYHyQbLulMQC0MI)
+
 ---
 
 More episodes coming soon...
