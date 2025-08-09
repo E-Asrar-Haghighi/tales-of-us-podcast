@@ -52,7 +52,7 @@ Sometimes, it takes leaving everything behind to finally move forward.
 
 In the fourth episode of *Unspoken Connections*, Jason and Rebecca return from their road trip to face the quieter challenge of everyday openness.
 Over coffee, pastries, and moments of playful banter, they begin dismantling the emotional walls that have kept them apart for years.
-With each shared secret and small act of honesty, they take cautious steps toward trust, turning awkwardness into warmth and possibility.
+With each shared secret and small act of honesty, they take cautious steps toward trust, turning awkwardness into warmth and possibility.  
 📄 [Read script](https://github.com/E-Asrar-Haghighi/tales-of-us-podcast/blob/main/seasons/Season_01_Unspoken_Connections/S01_E04_The%20Language%20of%20Vulnerability.txt)  
 🎧 [Listen on Spotify](https://open.spotify.com/episode/2YsbBkOIofuKPSnzhZ2PUB)
 
