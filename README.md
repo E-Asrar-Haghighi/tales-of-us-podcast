@@ -45,19 +45,15 @@ Sometimes, it’s the conversations over coffee that change everything.
 In the third episode of Unspoken Connections, a spontaneous road trip becomes the backdrop for long-suppressed emotions and honest confessions.  
 As Jason and Rebecca share laughter, music, and memories along the coast, they begin to confront the fears that once kept them apart.  
 Sometimes, it takes leaving everything behind to finally move forward.  
-📄 [Read script](https://github.com/E-Asrar-Haghighi/tales-of-us-podcast/blob/main/seasons/Season_01_Unspoken_Connections/S01_E03_Road%20Trip%20Revelations.txt)  
+📄 [Read script](https://github.com/E-Asrar-Haghighi/tales-of-us-podcast/blob/main/seasons/Season_01_Unspoken_Connections/S01_E03_Road%20Trip%20Revelations.txt)    
 🎧 [Listen on Spotify](https://open.spotify.com/episode/4ywUkRb1NHq3txxPwEMWlE)
-
-Here’s your Episode 4 entry in the same format and style:
-
----
 
 ### 🎙️ S1E4: The Language of Vulnerability
 
 In the fourth episode of *Unspoken Connections*, Jason and Rebecca return from their road trip to face the quieter challenge of everyday openness.
 Over coffee, pastries, and moments of playful banter, they begin dismantling the emotional walls that have kept them apart for years.
 With each shared secret and small act of honesty, they take cautious steps toward trust, turning awkwardness into warmth and possibility.
-📄 [Read script](https://github.com/E-Asrar-Haghighi/tales-of-us-podcast/blob/main/seasons/Season_01_Unspoken_Connections/S01_E04_The%20Language%20of%20Vulnerability.txt)
+📄 [Read script](https://github.com/E-Asrar-Haghighi/tales-of-us-podcast/blob/main/seasons/Season_01_Unspoken_Connections/S01_E04_The%20Language%20of%20Vulnerability.txt)  
 🎧 [Listen on Spotify](https://open.spotify.com/episode/2YsbBkOIofuKPSnzhZ2PUB)
 
 ---
