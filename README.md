@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Cover.png" width="400">
+  <img src="Cover.png" width="600">
 </p
 
 # 🎙️ Tales of Us – A Storytelling Podcast
