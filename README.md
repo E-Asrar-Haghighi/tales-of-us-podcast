@@ -1,4 +1,6 @@
-![Tales of Us Cover](Cover.png)
+<p align="center">
+  <img src="Cover.png" width="400">
+</p
 
 # 🎙️ Tales of Us – A Storytelling Podcast
 
